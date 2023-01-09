@@ -1,2 +1,2 @@
 # DrawRectangle
-Draw Rectangles Project 4 for Gateway Java
+Drawing Rectangles using the StdDraw library with spiral, snake, and checkerboard animations.
